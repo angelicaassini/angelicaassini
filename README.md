@@ -11,15 +11,6 @@
   code, clean architecture, and products that solve real problems.</i>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/angelica-assini/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:assini-angelica@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
-  </a>
-</p>
-
 ---
 
 ## 🚀 Projeto em destaque · Featured Project — Planejador
@@ -76,15 +67,6 @@ isolated data, team, services, professionals and its own calendar.*
 
 - **[motors-shop](https://github.com/angelicaassini/motors-shop)** — plataforma de anúncios de veículos · *vehicle marketplace*.
 - **[customer-contacts](https://github.com/angelicaassini/customer-contacts)** — API de clientes e seus contatos (+ frontend) · *customers & contacts API (+ frontend)*.
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angelicaassini&show_icons=true&hide_border=true" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaassini&layout=compact&hide_border=true" alt="Top languages" height="160"/>
-</p>
 
 ---
 
