@@ -23,6 +23,8 @@ profissionais e agenda própria.
 isolated data, team, services, professionals and its own calendar.*
 
 🔗 **Demo ao vivo · Live demo:** [planejador-psi.vercel.app](https://planejador-psi.vercel.app)
+<br/>
+📂 **Vitrine · Showcase:** [planejador-showcase](https://github.com/angelicaassini/planejador-showcase) — prints, arquitetura e trechos de código.
 
 | | |
 |---|---|
