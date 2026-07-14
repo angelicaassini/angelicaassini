@@ -75,4 +75,4 @@ isolated data, team, services, professionals and its own calendar.*
 ## 📫 Contato · Contact
 
 - 💼 LinkedIn: [angelica-assini](https://www.linkedin.com/in/angelica-assini/)
-- 📧 E-mail: [assini-angelica@gmail.com](mailto:assini-angelica@gmail.com)
+- 📧 E-mail: [assini.angelica@gmail.com](mailto:assini.angelica@gmail.com)
