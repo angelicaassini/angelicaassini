@@ -13,7 +13,9 @@
 
 ---
 
-## 🚀 Projeto em destaque · Featured Project — Planejador
+## 🚀 Projetos em destaque · Featured Projects
+
+### 🗓️ Projeto · Project — Planejador
 
 **SaaS de agendamento multi-tenant** para profissionais de beleza (cabeleireiros,
 barbeiros, esteticistas): cada salão tem dados isolados, equipe, serviços,
@@ -26,16 +28,33 @@ isolated data, team, services, professionals and its own calendar.*
 <br/>
 📂 **Vitrine · Showcase:** [planejador-showcase](https://github.com/angelicaassini/planejador-showcase) — prints, arquitetura e trechos de código.
 
-| | |
-|---|---|
-| **Backend** | Python · Django · Django REST Framework · JWT |
-| **Frontend** | React · TypeScript · Vite · Material UI · React Query |
-| **Database** | PostgreSQL |
-| **Quality** | 159 testes · 100% de cobertura · E2E (API + Playwright) |
-| **Deploy** | Vercel (front) · Render (API) · Supabase (DB) |
+<table>
+  <tr><td><b>Backend</b></td><td>Python · Django · Django REST Framework · JWT</td></tr>
+  <tr><td><b>Frontend</b></td><td>React · TypeScript · Vite · Material UI · React Query</td></tr>
+  <tr><td><b>Database</b></td><td>PostgreSQL</td></tr>
+  <tr><td><b>Quality</b></td><td>159 testes · 100% de cobertura · E2E (API + Playwright)</td></tr>
+  <tr><td><b>Deploy</b></td><td>Vercel (front) · Render (API) · Supabase (DB)</td></tr>
+</table>
 
 > Isolamento por `tenant`, motor de disponibilidade/conflitos de horário e
 > notificações estruturadas para WhatsApp.
+> <br/>
+> *Tenant isolation, an availability & scheduling-conflict engine, and structured
+> WhatsApp notifications.*
+---
+
+### 🍔 Projeto · Project — BrazAI
+
+**SaaS de delivery multi-tenant** para restaurantes (pizzaria, hamburgueria, açaí):
+cada restaurante gerencia seu cardápio e pedidos; o cliente pede por um cardápio web
+(checkout + acompanhamento do pedido) ou pelo WhatsApp com IA.
+<br/>
+*Multi-tenant delivery SaaS for restaurants — each one manages its own menu and orders;
+customers order via a web menu (checkout + live tracking) or a WhatsApp AI agent.*
+
+🔗 **Demo ao vivo · Live demo:** [cardápio do cliente](https://brazai.vercel.app/cardapio/atelier-gastronomico) · [painel do dono (visitante)](https://brazai.vercel.app/login)
+<br/>
+📂 **Código · Code:** [brazai](https://github.com/angelicaassini/brazai)
 
 ---
 
