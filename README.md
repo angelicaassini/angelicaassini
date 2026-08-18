@@ -54,7 +54,6 @@ customers order via a web menu (checkout + live tracking) or a WhatsApp AI agent
 
 🔗 **Demo ao vivo · Live demo:** [cardápio do cliente](https://brazai.vercel.app/cardapio/atelier-gastronomico) · [painel do dono (visitante)](https://brazai.vercel.app/login)
 <br/>
-📂 **Código · Code:** [brazai](https://github.com/angelicaassini/brazai)
 
 ---
 
