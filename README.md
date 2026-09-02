@@ -32,15 +32,17 @@ isolated data, team, services, professionals and its own calendar.*
   <tr><td><b>Backend</b></td><td>Python · Django · Django REST Framework · JWT</td></tr>
   <tr><td><b>Frontend</b></td><td>React · TypeScript · Vite · Material UI · React Query</td></tr>
   <tr><td><b>Database</b></td><td>PostgreSQL</td></tr>
-  <tr><td><b>Quality</b></td><td>159 testes · 100% de cobertura · E2E (API + Playwright)</td></tr>
+  <tr><td><b>IA · WhatsApp</b></td><td>Meta Cloud API · agente com function calling (Gemini/Groq)</td></tr>
+  <tr><td><b>Quality</b></td><td>367 testes · 97% de cobertura · E2E (API + Playwright)</td></tr>
   <tr><td><b>Deploy</b></td><td>Vercel (front) · Render (API) · Supabase (DB)</td></tr>
 </table>
 
-> Isolamento por `tenant`, motor de disponibilidade/conflitos de horário e
-> notificações estruturadas para WhatsApp.
+> Isolamento por `tenant`, motor de disponibilidade/conflitos de horário e uma
+> **atendente de IA no WhatsApp** que agenda, remarca e cancela sozinha, por menus
+> clicáveis.
 > <br/>
-> *Tenant isolation, an availability & scheduling-conflict engine, and structured
-> WhatsApp notifications.*
+> *Tenant isolation, an availability & scheduling-conflict engine, and an **AI WhatsApp
+> assistant** that books, reschedules and cancels on its own, through tappable menus.*
 ---
 
 ### 🍔 Projeto · Project — BrazAI
@@ -54,6 +56,7 @@ customers order via a web menu (checkout + live tracking) or a WhatsApp AI agent
 
 🔗 **Demo ao vivo · Live demo:** [cardápio do cliente](https://brazai.vercel.app/cardapio/atelier-gastronomico) · [painel do dono (visitante)](https://brazai.vercel.app/login)
 <br/>
+📂 **Vitrine · Showcase:** [brazai-showcase](https://github.com/angelicaassini/brazai-showcase) — prints, arquitetura e trechos de código.
 
 ---
 
