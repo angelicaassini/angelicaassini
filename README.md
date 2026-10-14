@@ -60,6 +60,28 @@ customers order via a web menu (checkout + live tracking) or a WhatsApp AI agent
 
 ---
 
+### 🏠 Projeto · Project — Controle de Aluguéis
+
+**Sistema de controle de aluguéis em produção** para um proprietário de imóveis, desenhado
+para um usuário idoso e não técnico usar no celular: "marcar como pago" num toque, semáforo
+de pagamentos, IPTU por mês, reajuste anual, desfazer a última operação e histórico em calendário.
+<br/>
+*Rental control system in production for a property owner, designed for a senior, non-technical
+user on a phone: one-tap "mark as paid", colour-coded payment status, monthly property tax,
+annual adjustment, undo of the last operation and a calendar payment history.*
+
+📂 **Vitrine · Showcase:** [alugueis-showcase](https://github.com/angelicaassini/alugueis-showcase) — prints, arquitetura e trechos de código (código-fonte privado; em produção desde out/2026 · *private source code; in production since Oct 2026*).
+
+<table>
+  <tr><td><b>Backend</b></td><td>Python · Django · Django REST Framework · JWT</td></tr>
+  <tr><td><b>Frontend</b></td><td>React · TypeScript · Vite · Material UI · React Query · Zustand</td></tr>
+  <tr><td><b>Database</b></td><td>PostgreSQL (Neon)</td></tr>
+  <tr><td><b>Quality</b></td><td>188 testes de backend · 99% de cobertura · 88 de frontend · 10 cenários E2E (Playwright)</td></tr>
+  <tr><td><b>Deploy</b></td><td>Vercel (front) · Render (API) · Neon (DB) · cron-job.org (tarefas diárias)</td></tr>
+</table>
+
+---
+
 ## 🛠️ Tecnologias · Tech Stack
 
 **Back-end**
