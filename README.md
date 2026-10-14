@@ -58,6 +58,15 @@ customers order via a web menu (checkout + live tracking) or a WhatsApp AI agent
 <br/>
 📂 **Vitrine · Showcase:** [brazai-showcase](https://github.com/angelicaassini/brazai-showcase) — prints, arquitetura e trechos de código.
 
+<table>
+  <tr><td><b>Backend</b></td><td>Python · Django · Django REST Framework · JWT</td></tr>
+  <tr><td><b>Frontend</b></td><td>React · TypeScript · Vite · Material UI · React Query · Zustand</td></tr>
+  <tr><td><b>Database</b></td><td>PostgreSQL (Supabase)</td></tr>
+  <tr><td><b>IA · WhatsApp</b></td><td>Meta Cloud API · agente com function calling (Gemini/Groq)</td></tr>
+  <tr><td><b>Quality</b></td><td>161 testes de backend · 91% de cobertura · 12 de frontend · 12 cenários E2E (Playwright)</td></tr>
+  <tr><td><b>Deploy</b></td><td>Vercel (front) · Render (API) · Supabase (DB)</td></tr>
+</table>
+
 ---
 
 ### 🏠 Projeto · Project — Controle de Aluguéis
