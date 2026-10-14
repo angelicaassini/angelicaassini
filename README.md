@@ -30,10 +30,10 @@ isolated data, team, services, professionals and its own calendar.*
 
 <table>
   <tr><td><b>Backend</b></td><td>Python · Django · Django REST Framework · JWT</td></tr>
-  <tr><td><b>Frontend</b></td><td>React · TypeScript · Vite · Material UI · React Query</td></tr>
-  <tr><td><b>Database</b></td><td>PostgreSQL</td></tr>
+  <tr><td><b>Frontend</b></td><td>React · TypeScript · Vite · Material UI · React Query · Zustand</td></tr>
+  <tr><td><b>Database</b></td><td>PostgreSQL (Supabase)</td></tr>
   <tr><td><b>IA · WhatsApp</b></td><td>Meta Cloud API · agente com function calling (Gemini/Groq)</td></tr>
-  <tr><td><b>Quality</b></td><td>367 testes · 97% de cobertura · E2E (API + Playwright)</td></tr>
+  <tr><td><b>Quality</b></td><td>396 testes de backend · 97% de cobertura · 41 de frontend · 6 cenários E2E (Playwright)</td></tr>
   <tr><td><b>Deploy</b></td><td>Vercel (front) · Render (API) · Supabase (DB)</td></tr>
 </table>
 
