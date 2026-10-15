@@ -50,11 +50,19 @@ professionals, calendar and branding. Demo set up as a beauty salon.*
 ### 🍔 Projeto · Project — BrazAI
 
 **SaaS de delivery multi-tenant** para restaurantes (pizzaria, hamburgueria, açaí):
-cada restaurante gerencia seu cardápio e pedidos; o cliente pede por um cardápio web
-(checkout + acompanhamento do pedido) ou pelo WhatsApp com IA.
+cada restaurante gerencia seu cardápio e pedidos. O cliente pede por um cardápio web com
+fotos — busca por prato ou ingrediente (tolerante a erro de digitação), favoritos, filtros de
+dieta (diet, sem glúten, vegano), pizza meio a meio — com checkout e acompanhamento do
+pedido em tempo real, ou pelo WhatsApp com um agente de IA que monta o pedido. O
+restaurante gerencia tudo num painel com máquina de estados validada do pedido, modo
+visitante e acesso por papéis (JWT).
 <br/>
-*Multi-tenant delivery SaaS for restaurants — each one manages its own menu and orders;
-customers order via a web menu (checkout + live tracking) or a WhatsApp AI agent.*
+*Multi-tenant delivery SaaS for restaurants — each one manages its own menu and orders.
+Customers order via a web menu with photos — search by dish or ingredient (typo-tolerant),
+favourites, dietary filters (diet, gluten-free, vegan), half-and-half pizza — with checkout
+and live order tracking, or via a WhatsApp AI agent that assembles the order. The restaurant
+runs it from a panel with a validated order state machine, guest mode and role-based
+access (JWT).*
 
 🔗 **Demo ao vivo · Live demo:** [cardápio do cliente](https://brazai.vercel.app/cardapio/atelier-gastronomico) · [painel do dono (visitante)](https://brazai.vercel.app/login)
 <br/>
