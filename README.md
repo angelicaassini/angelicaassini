@@ -17,12 +17,14 @@
 
 ### 🗓️ Projeto · Project — Planejador
 
-**SaaS de agendamento multi-tenant** para profissionais de beleza (cabeleireiros,
-barbeiros, esteticistas): cada salão tem dados isolados, equipe, serviços,
-profissionais e agenda própria.
+**SaaS de agendamento multi-tenant** para negócios que atendem com hora marcada (salões,
+barbearias, clínicas, consultórios, estúdios): cada negócio é um tenant com dados isolados,
+equipe, serviços, profissionais, agenda e identidade visual próprias. Demo configurada
+como salão de beleza.
 <br/>
-*Multi-tenant scheduling SaaS for beauty professionals — each salon has fully
-isolated data, team, services, professionals and its own calendar.*
+*Multi-tenant scheduling SaaS for appointment-based businesses (salons, clinics, dental
+offices, studios) — each business is a tenant with fully isolated data, team, services,
+professionals, calendar and branding. Demo set up as a beauty salon.*
 
 🔗 **Demo ao vivo · Live demo:** [planejador-psi.vercel.app](https://planejador-psi.vercel.app)
 <br/>
