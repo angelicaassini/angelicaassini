@@ -136,5 +136,4 @@ annual adjustment, undo of the last operation and a calendar payment history.*
 
 ## 📫 Contato · Contact
 
-- 💼 LinkedIn: [angelica-assini](https://www.linkedin.com/in/angelica-assini/)
 - 📧 E-mail: [assini.angelica@gmail.com](mailto:assini.angelica@gmail.com)
